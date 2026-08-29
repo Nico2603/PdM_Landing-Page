@@ -1,42 +1,62 @@
-# **Proyecto de Mantenimiento Predictivo (PdM)**
+<div align="center">
+  <img src="docs/assets/banner.svg" alt="PdM Landing" width="100%" />
+</div>
 
-## **Descripción**
-Este proyecto web tiene como objetivo ofrecer una visión integral del Mantenimiento Predictivo (PdM) mediante el uso de datos de sensores de vibración y algoritmos de Machine Learning. El sitio proporciona información detallada sobre la Industria 4.0, explicaciones sobre los algoritmos de análisis utilizados y una sección para realizar donaciones.
+<br />
 
-## **Características**
-- **Página Principal**: Explicación del PdM, los sensores utilizados, y los algoritmos de Machine Learning.
-- **Créditos**: Información sobre los creadores del proyecto.
+<div align="center">
 
-## **Tecnologías Utilizadas**
-- **HTML5**: Para la estructura y el contenido del sitio.
-- **CSS3**: Personalización del diseño y estilos.
-- **Bootstrap 5**: Framework CSS para un diseño responsive y componentes interactivos.
-- **JavaScript**: Posibles funcionalidades dinámicas en futuras versiones.
+**Sitio estático del proyecto PdM** (UCP · Industria 4.0). No es el backend: es la cara del equipo y del problema.
 
-## **Estructura del Proyecto**
-- **index.html**: Página principal.
-- **css/**: Estilos personalizados del proyecto.
-- **js/**: Funcionalidades opcionales para el proyecto.
-- **images/**: Recursos gráficos utilizados en el sitio web.
+[![HTML](https://img.shields.io/badge/HTML-5-070A0F?style=for-the-badge&logo=html5&logoColor=7BA3C9)](https://developer.mozilla.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-070A0F?style=for-the-badge&logo=bootstrap&logoColor=7BA3C9)](https://getbootstrap.com/)
 
-## **Créditos**
-- **Nicolás Ceballos Brito**  
-  [nicolas.ceballos@ucp.edu.co](mailto:nicolas.ceballos@ucp.edu.co)
+</div>
 
-- **Camilo Castañeda Yepes**  
-  [camilo2.castaneda@ucp.edu.co](mailto:camilo2.castaneda@ucp.edu.co)
+## Qué es
 
-- **Juan Alejandro Urueña Serna**  
-  [juan.uruena@ucp.edu.co](mailto:juan.uruena@ucp.edu.co)
+Landing informativa: sensores, ML, créditos del equipo, video. El sistema que clasifica vibraciones vive en [PdM-Manager](https://github.com/Nico2603/PdM-Manager).
 
-- **Jorge Bañol**  
-  [jorge.banol@ucp.edu.co](mailto:jorge.banol@ucp.edu.co)
+## Stack
 
-- **Juan Carlos Blandón A.**  
-  [juanc.blandon@ucp.edu.co](mailto:juanc.blandon@ucp.edu.co)
+HTML · CSS · Bootstrap 5 · JS mínimo
 
-- **Alonso Toro Lazo**  
-  [alonso.toro@ucp.edu.co](mailto:alonso.toro@ucp.edu.co)
+## Ver local
 
-## **Licencia**
-Este proyecto es de código abierto. Siéntete libre de clonar, modificar y contribuir. Los derechos sobre los contenidos pertenecen a los creadores mencionados en la sección de créditos.
+```bash
+git clone https://github.com/Nico2603/PdM_Landing-Page.git
+cd PdM_Landing-Page
+```
+
+Abre `index.html` (o cualquier servidor estático). Páginas: `index.html`, `info.html`.
+
+## Familia PdM
+
+[Arduino-PdM](https://github.com/Nico2603/Arduino-PdM) · [PdM-Manager](https://github.com/Nico2603/PdM-Manager) · [Algoritmos ML](https://github.com/Nico2603/Algoritmos-de-ML-no-supervisados-para-PdM) · **esta landing**
+
+## Agentes
+
+`.agents/skills/` — Superpowers, `nicolas-identity`, `find-skills`, `frontend-design`. `graphify update .`
+
+---
+
+<div align="center">
+
+**Nicolás Ceballos Brito** · Ingeniero en Sistemas y Telecomunicaciones (UCP 2025)  
+CTO · Prosavis · Pereira, Colombia
+
+[nicolasceballosbrito.com](https://nicolasceballosbrito.com)
+·
+[GitHub](https://github.com/Nico2603)
+·
+[LinkedIn](https://www.linkedin.com/in/nicolas-ceballos-brito/)
+·
+[X](https://x.com/NicolasCBrito)
+·
+[Instagram](https://www.instagram.com/nico_ceballos26/)
+·
+[Hugging Face](https://huggingface.co/Flackoooo)
+·
+[Email](mailto:nicolasceballosbrito@gmail.com)
+
+</div>

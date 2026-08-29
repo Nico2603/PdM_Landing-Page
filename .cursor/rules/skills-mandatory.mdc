@@ -1,0 +1,30 @@
+---
+description: Skills obligatorias — identidad Nicolás + Superpowers. Leer SKILL.md del bundle que aplique.
+alwaysApply: true
+---
+
+# Skills obligatorias
+
+Ubicación: `.agents/skills/`. Lockfile: `skills-lock.json` (si existe).
+
+## Siempre
+
+Antes de actuar, leer:
+
+1. `nicolas-identity` — autor, marca, redes, frontera Prosavis
+2. `using-superpowers` — invocar skills del bundle
+
+## Bundles
+
+| Tipo | Skills (leer SKILL.md) |
+|---|---|
+| Cualquier tarea | `nicolas-identity`, `using-superpowers` |
+| Feature / comportamiento | `brainstorming` → `writing-plans` → `executing-plans` |
+| Bug | `systematic-debugging` |
+| Antes de cerrar | `verification-before-completion` |
+| Pedir revisión | `requesting-code-review` |
+| Buscar capacidad nueva | `find-skills` |
+| README / copy público | `nicolas-identity` |
+| Stack extra | las skills listadas en `AGENTS.md` de este repo |
+
+No ejecutar el catálogo entero en cada prompt. Clasifica y aplica el bundle.
